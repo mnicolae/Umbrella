@@ -20,8 +20,12 @@ This repository contains the work of team HackHers at the Hack For Her competiti
 ## Links
 
 [Event details](http://www.eventbrite.com/event/5638755670)
+
 [Hack For Her - A recap](http://girlsintechtoronto.com/gitdot-events/hack-for-her-what-was-hacked-and-how-did-they-do/)
+
 [Girls in Tech Toronto](http://girlsintechtoronto.com/)
+
 [Girl Geeks Toronto](http://girlgeekstoronto.com/)
+
 [Women && Tech](http://womenandtech.com/)
 
